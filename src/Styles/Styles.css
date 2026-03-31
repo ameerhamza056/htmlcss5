@@ -1,0 +1,21 @@
+main {
+    border: 15px solid black;
+    width : 600px;
+    height : 300px;
+    background-color: #fff ;
+}
+.q {
+    height: 100px;
+    width: 600px ;
+    background-color: #012b7f;
+}
+.w {
+    height: 100px;
+    width: 600px ;
+    background-color: #fdd116;
+}
+.e {
+    height: 100px;
+    width: 600px ;
+    background-color: #ce1127;
+}
